@@ -1,0 +1,15 @@
+{
+  "main.css": "https://www.preodds.com/static/css/main.7637df0e.chunk.css",
+  "main.js": "https://www.preodds.com/static/js/main.a36402ab.chunk.js",
+  "main.js.map": "https://www.preodds.com/static/js/main.a36402ab.chunk.js.map",
+  "static/css/1.622b9a9d.chunk.css": "https://www.preodds.com/static/css/1.622b9a9d.chunk.css",
+  "static/js/1.3d19709c.chunk.js": "https://www.preodds.com/static/js/1.3d19709c.chunk.js",
+  "static/js/1.3d19709c.chunk.js.map": "https://www.preodds.com/static/js/1.3d19709c.chunk.js.map",
+  "runtime~main.js": "https://www.preodds.com/static/js/runtime~main.6db9cd3b.js",
+  "runtime~main.js.map": "https://www.preodds.com/static/js/runtime~main.6db9cd3b.js.map",
+  "static/css/1.622b9a9d.chunk.css.map": "https://www.preodds.com/static/css/1.622b9a9d.chunk.css.map",
+  "static/css/main.7637df0e.chunk.css.map": "https://www.preodds.com/static/css/main.7637df0e.chunk.css.map",
+  "index.html": "https://www.preodds.com/index.html",
+  "precache-manifest.bb5521468a8c1f2a29c9625c280eda1e.js": "https://www.preodds.com/precache-manifest.bb5521468a8c1f2a29c9625c280eda1e.js",
+  "service-worker.js": "https://www.preodds.com/service-worker.js"
+}
